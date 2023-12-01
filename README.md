@@ -13,7 +13,7 @@
 * Increment: Allow users to increasethe count with a simple button;
 
 * Reset: Provide a button or option to reset the count to zero or a specified starting point.
-* 
+  
 * Decrement: Allow users to decrease the count with a simple button;
 
 ## How To Use
