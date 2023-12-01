@@ -34,6 +34,6 @@ To reset the count, click the "Reset" button.
 Observe the numerical value on the counter returning to the initial value.
 ```
 
-## Try it
+## Project Link
 
-You can try infinityCounter by clicking the following link: https://michelezedda.github.io/counter/
+You can try infinityCounter by clicking the following link :link: [infinityCounter](https://ila1997.github.io/Counter/)
