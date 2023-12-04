@@ -34,6 +34,11 @@ To reset the count, click the "Reset" button.
 Observe the numerical value on the counter returning to the initial value.
 ```
 
+## Technologies Used
+- HTML5 & CSS3: Markup and styling languages for building web pages;
+- Sass: CSS extension language for web development efficiency;
+- JavaScript: A programming language for adding interactivity to web applications;
+
 ## Project Link
 
 You can try infinityCounter by clicking the following link :link: [infinityCounter](https://michelezedda.github.io/infinityCounter/)
