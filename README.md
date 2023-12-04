@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h2 align="center">Effortless counting at your fingertips</h4>
+<h2 align="center">Effortless counting at your fingertips</h2>
 
 ## Key Features
 
