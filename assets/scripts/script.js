@@ -1,6 +1,6 @@
-const countWrapper = document.getElementById("counter-container");
-const displayWrapper = document.getElementById("display_container");
-const buttonWrapper = document.getElementById("button_container");
+const countWrapper = document.getElementById('counter-container');
+const displayWrapper = document.getElementById('display_container');
+const buttonWrapper = document.getElementById('button_container');
 
 let count = 0;
 
@@ -9,17 +9,17 @@ display.textContent = '0';
 displayWrapper.appendChild(display);
 
 const decrease = document.createElement('button');
-decrease.className = "decrease-button"; 
+decrease.className = 'decrease-button'; 
 decrease.textContent = '-';
 buttonWrapper.appendChild(decrease);
 
 const reset = document.createElement('button');
 reset.textContent = 'Reset';
-reset.className = "reset-button"; 
+reset.className = 'reset-button'; 
 buttonWrapper.appendChild(reset);
 
 const increase = document.createElement('button');
-increase.className = "increase-button"; 
+increase.className = 'increase-button'; 
 increase.textContent = '+';
 buttonWrapper.appendChild(increase);
 
