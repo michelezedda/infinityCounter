@@ -36,4 +36,4 @@ Observe the numerical value on the counter returning to the initial value.
 
 ## Project Link
 
-You can try infinityCounter by clicking the following link :link: [infinityCounter](https://michelezedda.github.io/counter/)
+You can try infinityCounter by clicking the following link :link: [infinityCounter](https://michelezedda.github.io/infinityCounter/)
