@@ -1,0 +1,87 @@
+@import 'config';
+
+* {
+  font-family: $font-stack;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  margin: 70px 500px 0 500px;
+  text-align: center;
+  background-color: $background-color;
+  color: $primary-color;
+  font-size: 25px;
+  h1 {
+    font-size: 70px;
+    font-weight: 700;
+    margin-bottom: 20px;
+  }
+  p {
+    font-size: 30px;
+    font-weight: 300;
+  }
+}
+#counter-container {
+  background-color: rgba(151, 184, 255, 0.5);
+  border: 5px solid $primary-color;
+  border-radius: 30px;
+  padding: 100px;
+  width: 100%;
+  margin: 100px 0 20px 0;
+}
+.display-container {
+  background-color: rgba(17, 38, 83, 0.8);
+  border: 5px solid $primary-color;
+  border-radius: 50px;
+  p {
+    font-size: 100px;
+  }
+}
+.decrease-button, .reset-button, .increase-button {
+  margin-top: 80px;
+  font-size: 30px;
+  font-weight: 500;
+  color: $primary-color;
+  width: 200px;
+  height: 200px;
+  background-color: rgba(17, 38, 83, 0.4);
+  border: 5px solid $primary-color;
+  border-radius: 100px;
+  margin-right: 20px;
+  cursor: pointer;
+}
+.increase-button {
+  margin-right: 0;
+}
+.decrease-button:hover, .reset-button:hover, .increase-button:hover {
+background-color: rgba(17, 38, 83, 0.6);
+}
+.decrease-button:active, .reset-button:active, .increase-button:active {
+background-color: rgba(17, 38, 83, 0.8);
+transform: scale(.98);
+}
+#footer {
+  background-color: rgba(22, 42, 85, 0.5);
+  border: 3px solid $primary-color;
+  border-radius: 20px;
+  padding: 30px;
+  width: 100%;
+  margin: 100px 0 20px 0;
+  p {
+    font-size: 25px;
+  }
+  i {
+    color: $footer-color;
+  }
+  a {
+    text-decoration: none;
+    color: $primary-color;
+    cursor: pointer;
+  }
+  a:hover {
+    color: $footer-color;
+  }
+}
+
+@import 'media';
