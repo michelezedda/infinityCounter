@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-    <img src="https://michelezedda.github.io/counter/assets/images/favicon.ico" alt="infinityCounter" width="200">
+    <img src="https://michelezedda.github.io/counter/assets/images/favicon.ico" width="200">
   <br>
   infinityCounter
   <br>
