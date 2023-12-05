@@ -76,24 +76,5 @@ background-color: lighten($blue-color, 10%);
 background-color: lighten($blue-color, 15%);
 transform: scale(.98);
 }
-#footer {
-  background-color: lighten($background-color, 10%);
-  border: 3px solid $primary-color;
-  border-radius: 20px;
-  padding: 30px;
-  width: 100%;
-  margin: 100px 0 20px 0;
-  p {
-    font-size: 25px;
-  }
-  a {
-    text-decoration: none;
-    color: $primary-color;
-    cursor: pointer;
-  }
-  a:hover {
-    color: $blue-color;
-  }
-}
 
 @import 'media';
