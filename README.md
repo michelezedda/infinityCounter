@@ -18,7 +18,7 @@
 
 ## How To Use
 
-Using my simple counter is easy and intuitive. Follow these steps to get started:
+Using this simple counter is easy and intuitive. Follow these steps to get started:
 
 ```bash
 # Incrementing:
