@@ -26,14 +26,14 @@ buttonWrapper.appendChild(increase);
 mainWrapper.appendChild(decrease).onclick = function() {
   count -= 1;
   counterWrapper.appendChild(counter).innerText = count;
-};
+}
 // RESET FUNCTION
 mainWrapper.appendChild(reset).onclick = function() {
   count = 0;
   counterWrapper.appendChild(counter).innerText = count;
-};
+}
 // INCREASE FUNCTION
 mainWrapper.appendChild(increase).onclick = function() {
   count += 1;
   counterWrapper.appendChild(counter).innerText = count;
-};
+}
