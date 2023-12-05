@@ -23,7 +23,7 @@ Using this simple counter is easy and intuitive. Follow these steps to get start
 ```bash
 # Incrementing:
 To increase the count, click the "+" button.
-Watch as the numerical value on the counter display goes up.
+Observe the numerical value on the counter display increasing.
 
 # Decrementing:
 To decrease the count, click the "-" button.
