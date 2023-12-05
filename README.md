@@ -21,10 +21,6 @@
 Using this simple counter is easy and intuitive. Follow these steps to get started:
 
 ```bash
-# Incrementing:
-To increase the count, click the "+" button.
-Observe the numerical value on the counter display increasing.
-
 # Decrementing:
 To decrease the count, click the "-" button.
 Observe the numerical value on the counter display decreasing.
@@ -32,6 +28,10 @@ Observe the numerical value on the counter display decreasing.
 # Resetting:
 To reset the count, click the "Reset" button.
 Observe the numerical value on the counter returning to the initial value.
+
+# Incrementing:
+To increase the count, click the "+" button.
+Observe the numerical value on the counter display increasing.
 ```
 
 ## Technologies Used
