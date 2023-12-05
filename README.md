@@ -41,4 +41,4 @@ Observe the numerical value on the counter display increasing.
 
 ## Project Link
 
-You can try infinityCounter by clicking the following link :link: [infinityCounter](https://michelezedda.github.io/infinityCounter/)
+You can try infinityCounter by clicking the following link :link: [infinityCounter](https://infinitycounter.netlify.app/)
